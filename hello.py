@@ -1,0 +1,1 @@
+Welcome to mini_grep!
